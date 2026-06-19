@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ديوني",
+  "description": "تطبيق ديوني لدفاتر الحسابات وقيد الديون محلياً وتسهيل التعامل بين التجار والعملاء وأفراد العائلة بالتكامل مع قاعدة بيانات SQLite ممتازة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
